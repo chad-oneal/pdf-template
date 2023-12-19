@@ -12,10 +12,10 @@ To open the PDF: <br><br>
   <li> Once the New Project is created, open PyCharm terminal <br>
   <li> cd into venv <br>
   <li> In the venv directory run git clone https://github.com/chad-oneal/pdf-template.git <br>
-  <li> Open Python Packages <br> 
-  <li> In the search bar type fpdf <br>
-  <li> Click Install and choose version <br>
+  <li> In Python Packages search bar, search for fpdf, click Install, choose version <br> 
   <li> In Python Packages search bar, search for pandas, click Install, choose version <br>   
-  <li> Open main.py and click run <br>
-  <li> Open output.pdf 
+  <li> In the venv directory, expand pdf-template <br>
+  <li> Open main.py and then click run <br>
+  <li> Open output.pdf <br> 
+  <li> See created PDF file   
 
